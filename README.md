@@ -16,4 +16,4 @@ This project is a simple Node.js Express API that connects to a MongoDB database
 4. Start the server:
    ```bash
    npm start
-5. Test the endpoint at http://localhost:3000/users/<userId>
+5. Test the endpoint at http://localhost:3000/users/userId
